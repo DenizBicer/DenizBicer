@@ -1,3 +1,7 @@
+<div align="center">
+  <img style="max-width: 100%;" src="https://github.com/DenizBicer/DenizBicer/raw/main/test.svg?sanitize=true">
+</div>
+
 <!--
 ### Hi there 👋
 
